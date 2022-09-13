@@ -6,6 +6,10 @@
 - 一台電腦
 - 連接網路
 
+### 費用
+- 主機 [DigitalOcean](https://digitalocean.com/) 免費
+- 網址 [Gandi](https://www.gandi.net/zh-Hant) NTD600~1200/每年
+
 ### 帳號申請
 - [Instagram / ig 帳號](https://www.instagram.com/)
 - [Youtube 帳號](https://youtube.com/)
@@ -15,7 +19,7 @@
 - [DigitalOcean 帳號](https://cloud.digitalocean.com/registrations/new)
 
 ### 軟體安裝
-#### 01. 文件編輯器：下載 [Visual Studio Code](https://code.visualstudio.com/download){:target="_blank" rel="noopener"}
+#### 01. 文件編輯器：下載 [Visual Studio Code](https://code.visualstudio.com/download)
 - 安裝教學 [Mac 安裝](https://www.youtube.com/watch?v=V0umtTqyvyE)
 - 安裝教學 [Windows 安裝](https://www.youtube.com/watch?v=ivgCJ1XmNMM)
 
