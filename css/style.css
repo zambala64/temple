@@ -5,6 +5,7 @@
   box-sizing: border-box;
 }
 
+html{overflow-x:hidden;} 
 body {
   font-family:"Noto Sans TC";
   font-size: 1.2rem;

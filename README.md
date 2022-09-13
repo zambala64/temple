@@ -1,6 +1,10 @@
 # 宮廟行銷 - 網站建置
 ## 水艸田享
-讓您的網站再次偉大。
+科技 X 信仰，免費網站建置教學。
+
+### 條件
+- 一台電腦
+- 連接網路
 
 ### 帳號申請
 - [Instagram / ig 帳號](https://www.instagram.com/)
@@ -16,16 +20,22 @@
 - 安裝教學 [Windows 安裝](https://www.youtube.com/watch?v=ivgCJ1XmNMM)
 
 
-#### 02. 版本管理 / Github：
-##### 02-A Windows 安裝教學 [Windows 安裝](https://git-scm.com/download/win){:target="_blank" rel="noopener"}
+#### 02. 版本管理 / Git：
+##### 02-A: Windows 安裝教學 [Windows 安裝](https://git-scm.com/download/win)
 
-##### 02-B Mac 安裝教學 [Mac 安裝](https://docs.microsoft.com/zh-tw/devops/develop/git/install-and-set-up-git){:target="_blank" rel="noopener"}
-01. 先安裝 [Homebrew](https://brew.sh/)
-打開 Terminal ，輸入下面指令。
+##### 02-B: Mac 安裝教學 [Mac 安裝](https://docs.microsoft.com/zh-tw/devops/develop/git/install-and-set-up-git)
+01. 先安裝 [Homebrew](https://brew.sh/) 後，在 Mac 電腦，打開 Terminal 指令視窗 ，輸入下面指令。
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 02. 安裝 Homebrew 並執行下列命令，就能安裝好 Git：
-`brew install git`
+```
+brew install git
+```
 
-###### 軟體安裝 
+### 參考資源
+- 網頁框架[bootstrap](https://getbootstrap.com/)
+- 網頁框架[UIKit](https://getuikit.com/)
+- 網站設計[w3big.com](http://www.w3big.com/zh-TW/)
+
+
