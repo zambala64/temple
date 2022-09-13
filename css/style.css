@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans+TC");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family:"Noto Sans TC";
+  font-size: 1.2rem;
+}
+p{
+
+}
+.transparent-w{
+  opacity: 0.9;
+}
+.uk-card-title {
+  font-size: 3.5rem;
+  font-weight:600;
+  line-height: 1.4;
+}
+h2.uk-card-title {
+  font-size: 1.9rem;
+  font-weight:500;
+  line-height: 1.2;
+}
+h3.uk-card-title {
+  font-size: 1.5rem;
+  font-weight:500;
+  line-height: 1.1;
+}
+p{
+  font-size: 18px;
+  font-weight:500;
+  line-height:28px;
+}
+
+li.tumblr_post {
+  display: flow-root;
+  padding: 30px 30px;
+
+}
+
+li.tumblr_post {
+  background-color: #fff;
+  color: #666;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+  margin-bottom: 50px;
+}
