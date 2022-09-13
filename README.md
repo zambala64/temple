@@ -3,7 +3,7 @@
 讓您的網站再次偉大。
 
 ### 帳號申請
-- [Instagram / ig 帳號](https://www.instagram.com/){:target="_blank" rel="noopener"}
+- [Instagram / ig 帳號](https://www.instagram.com/){:target="_blank"}
 - [Youtube 帳號](https://youtube.com/){:target="_blank" rel="noopener"}
 - [Facebook 帳號](https://facebook.com/){:target="_blank" rel="noopener"}
 - [elfsight.com 帳號](https://apps.elfsight.com/sign-up/){:target="_blank" rel="noopener"}
