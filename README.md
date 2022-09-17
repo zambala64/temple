@@ -69,6 +69,11 @@ ssh -T git@github.com
 Hi XXX! You’ve successfully authenticated, but GitHub does not provide shell access.
 
 
+Window 使用 SSH 金鑰：基本上所有動作跟在 Linux 一樣，唯一的差異就是在 SSH 金鑰存放的位置是在
+```
+c:/Users/user_name/.ssh
+```
+
 
 ### 參考資源
 - 網頁框架[bootstrap](https://getbootstrap.com/)
