@@ -74,6 +74,43 @@ Window 使用 SSH 金鑰：基本上所有動作跟在 Linux 一樣，唯一的�
 c:/Users/user_name/.ssh
 ```
 
+#### git 指令：複製本站 "網站資料"  到您的電腦上
+打開 終端機/Terminal ，並且進入到「網站資料夾」，輸入下列指令。
+
+1. 複製指令：clone ( . 要記得加)
+```
+git clone git@github.com:zambala64/temple.git . 
+```
+
+
+#### git 指令：local端電腦(網站資料) 上傳到 Git 
+打開 終端機/Terminal ，並且進入到「網站資料夾」，輸入下列指令。
+
+1. 初始化
+```
+git init
+```
+
+2. 新增項目：將修改的項目暫存起來。
+```
+git add .
+```
+
+3. 紀錄項目：將修改的項目儲存、備註。 "裡面注釋：可英文、中文"
+```
+git commit -m "initial commit"
+```
+
+4. 遠端連線：將本地端 local 的資料夾，綁定到 git (只需做第一次，會自動綁定。)
+```
+git remote add origin git@github.com:nohatw/temple.git
+```
+
+5. 上傳資料：將本地端電腦網頁資料，上傳到 git
+```
+git push -u origin
+```
+
 
 ### 參考資源
 - 網頁框架[bootstrap](https://getbootstrap.com/)
