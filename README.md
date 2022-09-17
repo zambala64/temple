@@ -36,6 +36,25 @@
 ```
 brew install git
 ```
+03. git 指令參考
+
+列出你電腦中所有的 SSH Key 
+```
+ls -al ~/.ssh
+```
+
+產生一組新的 SSH Key "請填自己的email"
+```
+ssh-keygen -t ed25519 -C "your_email@example.com"
+```
+
+在產生金鑰的過程中，會詢問 3 個問題，如果沒有特殊需求可以全部使用預設值（按 Enter）就好：
+```
+Enter file in which to save the key (/home/username/.ssh/id_ed25519): /home/username/.ssh/github_key
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+```
+
 
 ### 參考資源
 - 網頁框架[bootstrap](https://getbootstrap.com/)
