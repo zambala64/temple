@@ -55,6 +55,21 @@ Enter passphrase (empty for no passphrase):
 Enter same passphrase again: 
 ```
 
+檢視並複製生成的公鑰：
+```
+cat ~/.ssh/github_key.pub 
+ssh-ed25519 ........ your_email@example.com
+
+```
+
+連線測試：完成金鑰上傳後，驗證下這組金鑰是不是正常工作，如果一切正常，應該會看到下面的訊息：
+```
+ssh -T git@github.com
+Hi XXX! You’ve successfully authenticated, but GitHub does not provide shell access.
+
+
+```
+
 
 ### 參考資源
 - 網頁框架[bootstrap](https://getbootstrap.com/)
